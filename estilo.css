@@ -1,0 +1,217 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  background-color: #caf7f7;
+}
+
+a {
+  color: #1a61cb;
+}
+
+a:visited {
+  color: #fafafa;
+}
+
+a:hover {
+  color: #234476;
+}
+
+.slider {
+  width: 100%;
+  margin: auto;
+  overflow: hidden;
+}
+
+.slider ul {
+  display: flex;
+  padding: 0px;
+  width: 400%;
+
+  animation: cambio 20s infinite alternate;
+}
+
+.slider li {
+  width: 100%;
+  list-style: none;
+}
+
+.slider img {
+  width: 100%;
+}
+
+@keyframes cambio {
+  0% {
+    margin-left: 0;
+  } /*No pasa nada*/
+  20% {
+    margin-left: 0;
+  } /*4s la imagen se queda quieta*/
+  /*Transicion de img a img 1 seg*/
+  25% {
+    margin-left: -100%;
+  } /*Img2 queda quieta por 4s*/
+  45% {
+    margin-left: -100%;
+  }
+
+  50% {
+    margin-left: -200%;
+  } /*Img3 queda quieta por 4s*/
+  70% {
+    margin-left: -200%;
+  }
+
+  75% {
+    margin-left: -300%;
+  } /*Coloco las 4 img*/
+  100% {
+    margin-left: -300%;
+  }
+}
+
+/*Container*/
+#container {
+  width: 90%;
+  margin: 0px auto;
+  box-shadow: 0px 0px 10 gray;
+}
+
+#container p h2 {
+  color: #a7ff33;
+}
+
+/*Header*/
+#header {
+  height: 20px;
+}
+
+/*Menu*/
+#menu {
+  clear: both;
+  background: #c69bf1;
+  color: #fff;
+  height: 55px;
+  border-bottom: 4px solid #2013ee;
+}
+
+#menu ul {
+  list-style: none;
+  margin: 0px auto;
+  margin-left: 25px;
+}
+
+#menu ul li {
+  line-height: 55px;
+  float: left;
+  border-right: 1px solid #363636;
+}
+
+#menu a {
+  display: block;
+  color: #fff;
+  text-decoration: none;
+  padding-left: 12px;
+  padding-right: 12px;
+  transition: all 30px;
+}
+
+#menu a:hover {
+  background: #2b6363;
+}
+
+/*content*/
+#content {
+  margin: 0px auto;
+  overflow: hidden;
+  background: #fff;
+}
+
+/*formulario*/
+.form_container {
+  width: 60%;
+}
+
+/*central text*/
+#central-text {
+  width: 95%;
+  min-height: 200px;
+  float: right;
+  padding: 25px;
+}
+
+#central-text h1 {
+  font-size: 2.5em;
+  margin-bottom: 5px;
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: 4px;
+  margin-top: 10px;
+  padding: 20px;
+}
+
+#central-text p {
+  font-size: 2em;
+  color: #000;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+/*central*/
+#central {
+  width: 95%;
+  min-height: 525px;
+  float: right;
+  padding: 25px;
+}
+
+#central h1 {
+  font-size: 2.5em;
+  margin-bottom: 5px;
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: 4px;
+  border-bottom: 3px solid #ccc;
+  margin-top: 10px;
+  padding: 20px;
+}
+
+/*productos*/
+.product {
+  width: 30%;
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: center;
+}
+
+.product img {
+  margin: 10px;
+  width: 200px;
+  height: 300px;
+  box-shadow: 0px 0px 8px 0px #f8fea1;
+}
+
+.product h2 {
+  font-size: 1em;
+  color: #9e9e9e;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.product p {
+  font-weight: bold;
+  color: #6b9fd6 !important;
+  margin-bottom: 10px;
+}
+
+/*pie de pagina*/
+#footer {
+  clear: both;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-top: 4px solid #2013ee;
+}
