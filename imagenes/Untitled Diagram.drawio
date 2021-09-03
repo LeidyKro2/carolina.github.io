@@ -1,1 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2021-09-03T19:32:00.796Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" version="15.0.6" etag="UNX4Q6iY0nQrgi6oGCVM" type="github"><diagram id="5cMehvwtnwYO3XpfyOlj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-03T20:04:28.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="iwwAcZuhrMdws2tkaNtH" version="15.0.6" type="github">
+  <diagram id="5cMehvwtnwYO3XpfyOlj" name="Page-1">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nC5VZsMFQ231EIK1uEML-1" value="Inteligencia artificial&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nC5VZsMFQ231EIK1uEML-2" value="Se refiere a las capacidades que se desarrollan en maquinas con el fin de imitar la inteligencia humana para realizar tareas y que tienen la capacidad de mejorar iterativamente a partir de la información que recopilada" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="150" width="270" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="nC5VZsMFQ231EIK1uEML-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.498;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nC5VZsMFQ231EIK1uEML-5" target="nC5VZsMFQ231EIK1uEML-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="615" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="550" />
+              <mxPoint x="504" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nC5VZsMFQ231EIK1uEML-5" value="Un asistente virtual es un agente de software que ayuda a usuarios de sistemas computacionales, automatizando y realizando tareas con la mínima interacción hombre-máquina" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="400" width="290" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="nC5VZsMFQ231EIK1uEML-7" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="100" as="sourcePoint" />
+            <mxPoint x="320" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nC5VZsMFQ231EIK1uEML-8" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="319.5" y="270" as="sourcePoint" />
+            <mxPoint x="319.5" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nC5VZsMFQ231EIK1uEML-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nC5VZsMFQ231EIK1uEML-9" target="nC5VZsMFQ231EIK1uEML-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nC5VZsMFQ231EIK1uEML-9" value="Tipo de IA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="320" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nC5VZsMFQ231EIK1uEML-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nC5VZsMFQ231EIK1uEML-10" target="nC5VZsMFQ231EIK1uEML-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nC5VZsMFQ231EIK1uEML-10" value="&lt;span&gt;Asistente virtual&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nC5VZsMFQ231EIK1uEML-19" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="180" y="590" width="650" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="nC5VZsMFQ231EIK1uEML-20" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nC5VZsMFQ231EIK1uEML-19">
+          <mxGeometry width="650" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="nC5VZsMFQ231EIK1uEML-21" value="SIRI" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="nC5VZsMFQ231EIK1uEML-20">
+          <mxGeometry width="217" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="nC5VZsMFQ231EIK1uEML-22" value="CORTANA" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="nC5VZsMFQ231EIK1uEML-20">
+          <mxGeometry x="217" width="216" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="nC5VZsMFQ231EIK1uEML-23" value="ALEXA" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="nC5VZsMFQ231EIK1uEML-20">
+          <mxGeometry x="433" width="217" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="nC5VZsMFQ231EIK1uEML-24" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nC5VZsMFQ231EIK1uEML-19">
+          <mxGeometry y="63" width="650" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="nC5VZsMFQ231EIK1uEML-25" value="Siri es una inteligencia artificial con funciones de asistente personal a veces con su propia personalidad para iOS, macOS, tvOS y watchOS. Esta aplicación utiliza procesamiento del lenguaje natural para responder preguntas, hacer recomendaciones mediante la delegación de solicitudes" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="nC5VZsMFQ231EIK1uEML-24">
+          <mxGeometry width="217" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="nC5VZsMFQ231EIK1uEML-26" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Cortana es el asistente virtual de windows&amp;nbsp;que te ayudará a acceder a tus intereses, lugares favoritos, correos, entre otros, por medio de comando de voz. Con solo hablarle a Cortana, esta herramienta podrá realizar multiplex solivitudes&lt;/font&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="nC5VZsMFQ231EIK1uEML-24">
+          <mxGeometry x="217" width="216" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="nC5VZsMFQ231EIK1uEML-27" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Alexa es el asistente virtual controlado por voz creado por Amazon junto a su línea de altavoces inteligentes Echo. Empiezas invocándolo diciendo su nombre, momento en el que el altavoz o dispositivo en el que esté integrado se pondrá a escuchar&lt;/font&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="nC5VZsMFQ231EIK1uEML-24">
+          <mxGeometry x="433" width="217" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="nC5VZsMFQ231EIK1uEML-28" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nC5VZsMFQ231EIK1uEML-19">
+          <mxGeometry y="200" width="650" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="nC5VZsMFQ231EIK1uEML-29" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Ventajas de Siri es que nos permite acceder a la mayoría de las funciones desde la pantalla de bloqueo, sin tener que desbloquear el dispositivo, lo cual nos da un acceso mucho más rápido y cómodo a las búsquedas en internet, para realizar llamadas o enviar mensajes, o para establecimientos establecimientos&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="nC5VZsMFQ231EIK1uEML-28">
+          <mxGeometry width="217" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="nC5VZsMFQ231EIK1uEML-30" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Ventajas de Cortana es que puede hacer prácticamente todo lo que hace en tu PC o Windows Phone como manejar tu estilo de vida retroalimentándote con alertas y búsquedas automáticas en la web, así como también información referente a tus vuelos y viajes, todo esto obteniendo y compartiendo información con tus otros dispositivos con Cortana.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="nC5VZsMFQ231EIK1uEML-28">
+          <mxGeometry x="217" width="216" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="nC5VZsMFQ231EIK1uEML-31" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Ventajas de Alexa es que&amp;nbsp;además de devolvernos la información que le solicitemos, también permite que los Echo funcionen como centros de hogares inteligentes. Pueden controlar dispositivos conectados a internet tales como luces inteligentes, termostatos y dispositivos electrónicos.&lt;/font&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="nC5VZsMFQ231EIK1uEML-28">
+          <mxGeometry x="433" width="217" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
